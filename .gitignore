@@ -1,5 +1,5 @@
 .DS_Store
-*.pkl
+# *.pkl
 *.pdf
 ~$*
 __pycache__/
