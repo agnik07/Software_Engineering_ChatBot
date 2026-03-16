@@ -1,0 +1,10 @@
+.DS_Store
+*.pkl
+*.pdf
+~$*
+__pycache__/
+*.pyc
+.env
+.pickle
+model.ipynb_checkpoints/
+

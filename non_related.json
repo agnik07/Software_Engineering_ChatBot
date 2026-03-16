@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "prompt": "what causes earthquakes",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "prompt": "how climate change affects environment",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "prompt": "how to cook pasta at home",
+    "category": "psychology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "prompt": "best foods for brain health",
+    "category": "literature",
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "prompt": "how vaccines work",
+    "category": "literature",
+    "difficulty": "hard"
+  },
+  {
+    "id": 6,
+    "prompt": "how stock market works",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "prompt": "how to plan a travel itinerary",
+    "category": "health",
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "prompt": "how to grow plants at home",
+    "category": "education",
+    "difficulty": "hard"
+  },
+  {
+    "id": 9,
+    "prompt": "importance of mental health",
+    "category": "art",
+    "difficulty": "hard"
+  },
+  {
+    "id": 10,
+    "prompt": "how to write a resume",
+    "category": "geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": 11,
+    "prompt": "how GPS works",
+    "category": "education",
+    "difficulty": "easy"
+  },
+  {
+    "id": 12,
+    "prompt": "tips for public speaking",
+    "category": "daily_life",
+    "difficulty": "hard"
+  },
+  {
+    "id": 13,
+    "prompt": "explain causes of world war 1",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": 14,
+    "prompt": "tips for healthy diet",
+    "category": "philosophy",
+    "difficulty": "hard"
+  },
+  {
+    "id": 15,
+    "prompt": "basic meditation techniques",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": 16,
+    "prompt": "popular classical music composers",
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "id": 17,
+    "prompt": "importance of education",
+    "category": "space",
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "prompt": "how stock market works",
+    "category": "music",
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "prompt": "history of the olympic games",
+    "category": "career",
+    "difficulty": "hard"
+  },
+  {
+    "id": 20,
+    "prompt": "tips for effective communication",
+    "category": "art",
+    "difficulty": "easy"
+  },
+  {
+    "id": 21,
+    "prompt": "how to save money effectively",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": 22,
+    "prompt": "how stock market works",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 23,
+    "prompt": "importance of education",
+    "category": "environment",
+    "difficulty": "easy"
+  },
+  {
+    "id": 24,
+    "prompt": "importance of biodiversity",
+    "category": "daily_life",
+    "difficulty": "hard"
+  },
+  {
+    "id": 25,
+    "prompt": "how to save money effectively",
+    "category": "psychology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 26,
+    "prompt": "how electric cars work",
+    "category": "career",
+    "difficulty": "hard"
+  },
+  {
+    "id": 27,
+    "prompt": "summary of romeo and juliet",
+    "category": "psychology",
+    "difficulty": "hard"
+  },
+  {
+    "id": 28,
+    "prompt": "importance of education",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": 29,
+    "prompt": "how to write a resume",
+    "category": "art",
+    "difficulty": "easy"
+  },
+  {
+    "id": 30,
+    "prompt": "how to plan a travel itinerary",
+    "category": "finance",
+    "difficulty": "medium"
+  },
+  {
+    "id": 31,
+    "prompt": "history of space exploration",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "id": 32,
+    "prompt": "popular classical music composers",
+    "category": "career",
+    "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "prompt": "how to maintain work life balance",
+    "category": "culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 34,
+    "prompt": "how solar panels generate electricity",
+    "category": "philosophy",
+    "difficulty": "easy"
+  },
+  {
+    "id": 35,
+    "prompt": "how inflation affects economy",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": 36,
+    "prompt": "tips for public speaking",
+    "category": "finance",
+    "difficulty": "easy"
+  },
+  {
+    "id": 37,
+    "prompt": "how electric cars work",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": 38,
+    "prompt": "benefits of regular exercise",
+    "category": "philosophy",
+    "difficulty": "easy"
+  },
+  {
+    "id": 39,
+    "prompt": "basic first aid techniques",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 40,
+    "prompt": "explain causes of world war 1",
+    "category": "space",
+    "difficulty": "easy"
+  },
+  {
+    "id": 41,
+    "prompt": "how to start a small business",
+    "category": "philosophy",
+    "difficulty": "medium"
+  },
+  {
+    "id": 42,
+    "prompt": "importance of clean water",
+    "category": "philosophy",
+    "difficulty": "hard"
+  },
+  {
+    "id": 43,
+    "prompt": "how photography works",
+    "category": "environment",
+    "difficulty": "medium"
+  },
+  {
+    "id": 44,
+    "prompt": "how solar panels generate electricity",
+    "category": "geography",
+    "difficulty": "hard"
+  },
+  {
+    "id": 45,
+    "prompt": "describe the water cycle",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 46,
+    "prompt": "history of space exploration",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": 47,
+    "prompt": "summary of romeo and juliet",
+    "category": "travel",
+    "difficulty": "hard"
+  },
+  {
+    "id": 48,
+    "prompt": "how to save money effectively",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 49,
+    "prompt": "how to reduce stress",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": 50,
+    "prompt": "how climate change affects environment",
+    "category": "career",
+    "difficulty": "easy"
+  },
+  {
+    "id": 51,
+    "prompt": "describe the water cycle",
+    "category": "daily_life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 52,
+    "prompt": "how airplanes fly",
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "id": 53,
+    "prompt": "explain causes of world war 1",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": 54,
+    "prompt": "benefits of regular exercise",
+    "category": "art",
+    "difficulty": "medium"
+  },
+  {
+    "id": 55,
+    "prompt": "popular classical music composers",
+    "category": "music",
+    "difficulty": "medium"
+  },
+  {
+    "id": 56,
+    "prompt": "explain theory of relativity in simple terms",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": 57,
+    "prompt": "how airplanes fly",
+    "category": "environment",
+    "difficulty": "hard"
+  },
+  {
+    "id": 58,
+    "prompt": "how to save money effectively",
+    "category": "sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 59,
+    "prompt": "history of space exploration",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 60,
+    "prompt": "benefits of reading books",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 61,
+    "prompt": "how stock market works",
+    "category": "finance",
+    "difficulty": "medium"
+  },
+  {
+    "id": 62,
+    "prompt": "describe the water cycle",
+    "category": "science",
+    "difficulty": "medium"
+  },
+  {
+    "id": 63,
+    "prompt": "importance of clean water",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": 64,
+    "prompt": "what causes earthquakes",
+    "category": "career",
+    "difficulty": "easy"
+  },
+  {
+    "id": 65,
+    "prompt": "what causes earthquakes",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": 66,
+    "prompt": "explain theory of relativity in simple terms",
+    "category": "space",
+    "difficulty": "hard"
+  },
+  {
+    "id": 67,
+    "prompt": "how electric cars work",
+    "category": "geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": 68,
+    "prompt": "how to improve concentration while studying",
+    "category": "space",
+    "difficulty": "easy"
+  },
+  {
+    "id": 69,
+    "prompt": "how to grow plants at home",
+    "category": "literature",
+    "difficulty": "hard"
+  },
+  {
+    "id": 70,
+    "prompt": "how airplanes fly",
+    "category": "psychology",
+    "difficulty": "easy"
+  },
+  {
+    "id": 71,
+    "prompt": "tips for time management",
+    "category": "literature",
+    "difficulty": "hard"
+  },
+  {
+    "id": 72,
+    "prompt": "benefits of reading books",
+    "category": "philosophy",
+    "difficulty": "easy"
+  },
+  {
+    "id": 73,
+    "prompt": "how to reduce stress",
+    "category": "career",
+    "difficulty": "easy"
+  },
+  {
+    "id": 74,
+    "prompt": "importance of recycling",
+    "category": "environment",
+    "difficulty": "medium"
+  },
+  {
+    "id": 75,
+    "prompt": "how photography works",
+    "category": "culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 76,
+    "prompt": "how to write a resume",
+    "category": "health",
+    "difficulty": "medium"
+  },
+  {
+    "id": 77,
+    "prompt": "what causes earthquakes",
+    "category": "space",
+    "difficulty": "medium"
+  },
+  {
+    "id": 78,
+    "prompt": "history of the olympic games",
+    "category": "music",
+    "difficulty": "hard"
+  },
+  {
+    "id": 79,
+    "prompt": "importance of biodiversity",
+    "category": "education",
+    "difficulty": "hard"
+  },
+  {
+    "id": 80,
+    "prompt": "how to start a small business",
+    "category": "history",
+    "difficulty": "easy"
+  },
+  {
+    "id": 81,
+    "prompt": "how inflation affects economy",
+    "category": "travel",
+    "difficulty": "hard"
+  },
+  {
+    "id": 82,
+    "prompt": "history of the olympic games",
+    "category": "career",
+    "difficulty": "easy"
+  },
+  {
+    "id": 83,
+    "prompt": "history of space exploration",
+    "category": "philosophy",
+    "difficulty": "hard"
+  },
+  {
+    "id": 84,
+    "prompt": "how GPS works",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 85,
+    "prompt": "tips for effective communication",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "id": 86,
+    "prompt": "tips for learning a new language",
+    "category": "environment",
+    "difficulty": "hard"
+  },
+  {
+    "id": 87,
+    "prompt": "what causes earthquakes",
+    "category": "art",
+    "difficulty": "easy"
+  },
+  {
+    "id": 88,
+    "prompt": "importance of biodiversity",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": 89,
+    "prompt": "importance of education",
+    "category": "career",
+    "difficulty": "easy"
+  },
+  {
+    "id": 90,
+    "prompt": "history of space exploration",
+    "category": "literature",
+    "difficulty": "hard"
+  },
+  {
+    "id": 91,
+    "prompt": "how to start a small business",
+    "category": "space",
+    "difficulty": "easy"
+  },
+  {
+    "id": 92,
+    "prompt": "how climate change affects environment",
+    "category": "movies",
+    "difficulty": "easy"
+  },
+  {
+    "id": 93,
+    "prompt": "explain causes of world war 1",
+    "category": "science",
+    "difficulty": "medium"
+  },
+  {
+    "id": 94,
+    "prompt": "how rainbows form",
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 95,
+    "prompt": "how GPS works",
+    "category": "art",
+    "difficulty": "easy"
+  },
+  {
+    "id": 96,
+    "prompt": "how to reduce stress",
+    "category": "history",
+    "difficulty": "easy"
+  },
+  {
+    "id": 97,
+    "prompt": "how to improve concentration while studying",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": 98,
+    "prompt": "what causes earthquakes",
+    "category": "career",
+    "difficulty": "medium"
+  },
+  {
+    "id": 99,
+    "prompt": "history of the internet",
+    "category": "career",
+    "difficulty": "medium"
+  },
+  {
+    "id": 100,
+    "prompt": "tips for effective communication",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 101,
+    "prompt": "importance of teamwork",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": 102,
+    "prompt": "summary of romeo and juliet",
+    "category": "art",
+    "difficulty": "medium"
+  },
+  {
+    "id": 103,
+    "prompt": "benefits of reading books",
+    "category": "career",
+    "difficulty": "medium"
+  },
+  {
+    "id": 104,
+    "prompt": "how to plan a travel itinerary",
+    "category": "health",
+    "difficulty": "hard"
+  },
+  {
+    "id": 105,
+    "prompt": "how to plan a travel itinerary",
+    "category": "music",
+    "difficulty": "hard"
+  },
+  {
+    "id": 106,
+    "prompt": "how electric cars work",
+    "category": "career",
+    "difficulty": "medium"
+  },
+  {
+    "id": 107,
+    "prompt": "how airplanes fly",
+    "category": "culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 108,
+    "prompt": "how stock market works",
+    "category": "space",
+    "difficulty": "easy"
+  },
+  {
+    "id": 109,
+    "prompt": "how to reduce stress",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "id": 110,
+    "prompt": "importance of education",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 111,
+    "prompt": "how airplanes fly",
+    "category": "finance",
+    "difficulty": "hard"
+  },
+  {
+    "id": 112,
+    "prompt": "tips for healthy diet",
+    "category": "daily_life",
+    "difficulty": "hard"
+  },
+  {
+    "id": 113,
+    "prompt": "how rainbows form",
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "id": 114,
+    "prompt": "how electric cars work",
+    "category": "psychology",
+    "difficulty": "hard"
+  },
+  {
+    "id": 115,
+    "prompt": "how climate change affects environment",
+    "category": "daily_life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 116,
+    "prompt": "history of the internet",
+    "category": "career",
+    "difficulty": "hard"
+  },
+  {
+    "id": 117,
+    "prompt": "history of space exploration",
+    "category": "movies",
+    "difficulty": "easy"
+  },
+  {
+    "id": 118,
+    "prompt": "how photography works",
+    "category": "sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 119,
+    "prompt": "how to start a small business",
+    "category": "sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 120,
+    "prompt": "explain theory of relativity in simple terms",
+    "category": "space",
+    "difficulty": "medium"
+  },
+  {
+    "id": 121,
+    "prompt": "popular classical music composers",
+    "category": "movies",
+    "difficulty": "hard"
+  },
+  {
+    "id": 122,
+    "prompt": "how climate change affects environment",
+    "category": "philosophy",
+    "difficulty": "medium"
+  },
+  {
+    "id": 123,
+    "prompt": "basic meditation techniques",
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 124,
+    "prompt": "tips for time management",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": 125,
+    "prompt": "how to cook pasta at home",
+    "category": "literature",
+    "difficulty": "hard"
+  },
+  {
+    "id": 126,
+    "prompt": "how inflation affects economy",
+    "category": "health",
+    "difficulty": "medium"
+  },
+  {
+    "id": 127,
+    "prompt": "explain causes of world war 1",
+    "category": "science",
+    "difficulty": "medium"
+  },
+  {
+    "id": 128,
+    "prompt": "history of the internet",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "id": 129,
+    "prompt": "explain theory of relativity in simple terms",
+    "category": "sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 130,
+    "prompt": "how to improve concentration while studying",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 131,
+    "prompt": "importance of biodiversity",
+    "category": "finance",
+    "difficulty": "hard"
+  },
+  {
+    "id": 132,
+    "prompt": "tips for healthy diet",
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 133,
+    "prompt": "how stock market works",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 134,
+    "prompt": "how to improve concentration while studying",
+    "category": "career",
+    "difficulty": "easy"
+  },
+  {
+    "id": 135,
+    "prompt": "explain theory of relativity in simple terms",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 136,
+    "prompt": "how electric cars work",
+    "category": "literature",
+    "difficulty": "hard"
+  },
+  {
+    "id": 137,
+    "prompt": "how to improve concentration while studying",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 138,
+    "prompt": "basic first aid techniques",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": 139,
+    "prompt": "popular classical music composers",
+    "category": "travel",
+    "difficulty": "easy"
+  },
+  {
+    "id": 140,
+    "prompt": "best foods for brain health",
+    "category": "sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 141,
+    "prompt": "what causes earthquakes",
+    "category": "literature",
+    "difficulty": "easy"
+  },
+  {
+    "id": 142,
+    "prompt": "how to reduce stress",
+    "category": "finance",
+    "difficulty": "easy"
+  },
+  {
+    "id": 143,
+    "prompt": "importance of biodiversity",
+    "category": "art",
+    "difficulty": "easy"
+  },
+  {
+    "id": 144,
+    "prompt": "how to grow plants at home",
+    "category": "sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 145,
+    "prompt": "tips for healthy diet",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 146,
+    "prompt": "importance of education",
+    "category": "finance",
+    "difficulty": "easy"
+  },
+  {
+    "id": 147,
+    "prompt": "tips for effective communication",
+    "category": "movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 148,
+    "prompt": "how vaccines work",
+    "category": "space",
+    "difficulty": "medium"
+  },
+  {
+    "id": 149,
+    "prompt": "tips for public speaking",
+    "category": "education",
+    "difficulty": "hard"
+  },
+  {
+    "id": 150,
+    "prompt": "importance of sleep for health",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 151,
+    "prompt": "history of the olympic games",
+    "category": "music",
+    "difficulty": "medium"
+  },
+  {
+    "id": 152,
+    "prompt": "importance of mental health",
+    "category": "career",
+    "difficulty": "easy"
+  },
+  {
+    "id": 153,
+    "prompt": "importance of cultural diversity",
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 154,
+    "prompt": "top tourist places to visit in italy",
+    "category": "philosophy",
+    "difficulty": "easy"
+  },
+  {
+    "id": 155,
+    "prompt": "how airplanes fly",
+    "category": "career",
+    "difficulty": "hard"
+  },
+  {
+    "id": 156,
+    "prompt": "how to grow plants at home",
+    "category": "music",
+    "difficulty": "hard"
+  },
+  {
+    "id": 157,
+    "prompt": "importance of teamwork",
+    "category": "health",
+    "difficulty": "medium"
+  },
+  {
+    "id": 158,
+    "prompt": "what causes earthquakes",
+    "category": "philosophy",
+    "difficulty": "easy"
+  },
+  {
+    "id": 159,
+    "prompt": "tips for time management",
+    "category": "music",
+    "difficulty": "medium"
+  },
+  {
+    "id": 160,
+    "prompt": "benefits of regular exercise",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 161,
+    "prompt": "best foods for brain health",
+    "category": "music",
+    "difficulty": "hard"
+  },
+  {
+    "id": 162,
+    "prompt": "how to maintain work life balance",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": 163,
+    "prompt": "how to write a resume",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "id": 164,
+    "prompt": "benefits of reading books",
+    "category": "daily_life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 165,
+    "prompt": "explain causes of world war 1",
+    "category": "art",
+    "difficulty": "medium"
+  },
+  {
+    "id": 166,
+    "prompt": "how rainbows form",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 167,
+    "prompt": "what causes earthquakes",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 168,
+    "prompt": "basic meditation techniques",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 169,
+    "prompt": "how vaccines work",
+    "category": "finance",
+    "difficulty": "hard"
+  },
+  {
+    "id": 170,
+    "prompt": "how inflation affects economy",
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "id": 171,
+    "prompt": "what causes earthquakes",
+    "category": "environment",
+    "difficulty": "hard"
+  },
+  {
+    "id": 172,
+    "prompt": "how stock market works",
+    "category": "sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 173,
+    "prompt": "tips for effective communication",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": 174,
+    "prompt": "how to maintain work life balance",
+    "category": "environment",
+    "difficulty": "easy"
+  },
+  {
+    "id": 175,
+    "prompt": "history of the olympic games",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": 176,
+    "prompt": "how volcanoes erupt",
+    "category": "education",
+    "difficulty": "easy"
+  },
+  {
+    "id": 177,
+    "prompt": "benefits of regular exercise",
+    "category": "sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 178,
+    "prompt": "benefits of regular exercise",
+    "category": "art",
+    "difficulty": "easy"
+  },
+  {
+    "id": 179,
+    "prompt": "how GPS works",
+    "category": "art",
+    "difficulty": "easy"
+  },
+  {
+    "id": 180,
+    "prompt": "importance of recycling",
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "id": 181,
+    "prompt": "how inflation affects economy",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 182,
+    "prompt": "summary of romeo and juliet",
+    "category": "daily_life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 183,
+    "prompt": "benefits of reading books",
+    "category": "movies",
+    "difficulty": "hard"
+  },
+  {
+    "id": 184,
+    "prompt": "how to write a resume",
+    "category": "art",
+    "difficulty": "medium"
+  },
+  {
+    "id": 185,
+    "prompt": "basic first aid techniques",
+    "category": "space",
+    "difficulty": "medium"
+  },
+  {
+    "id": 186,
+    "prompt": "explain causes of world war 1",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": 187,
+    "prompt": "how GPS works",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 188,
+    "prompt": "how volcanoes erupt",
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "id": 189,
+    "prompt": "summary of romeo and juliet",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 190,
+    "prompt": "explain theory of relativity in simple terms",
+    "category": "career",
+    "difficulty": "medium"
+  },
+  {
+    "id": 191,
+    "prompt": "importance of education",
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "id": 192,
+    "prompt": "how vaccines work",
+    "category": "psychology",
+    "difficulty": "hard"
+  },
+  {
+    "id": 193,
+    "prompt": "how to cook pasta at home",
+    "category": "space",
+    "difficulty": "hard"
+  },
+  {
+    "id": 194,
+    "prompt": "how climate change affects environment",
+    "category": "philosophy",
+    "difficulty": "easy"
+  },
+  {
+    "id": 195,
+    "prompt": "importance of mental health",
+    "category": "travel",
+    "difficulty": "hard"
+  },
+  {
+    "id": 196,
+    "prompt": "how to grow plants at home",
+    "category": "career",
+    "difficulty": "hard"
+  },
+  {
+    "id": 197,
+    "prompt": "importance of teamwork",
+    "category": "space",
+    "difficulty": "easy"
+  },
+  {
+    "id": 198,
+    "prompt": "explain causes of world war 1",
+    "category": "psychology",
+    "difficulty": "easy"
+  },
+  {
+    "id": 199,
+    "prompt": "tips for learning a new language",
+    "category": "career",
+    "difficulty": "medium"
+  },
+  {
+    "id": 200,
+    "prompt": "how electric cars work",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 201,
+    "prompt": "importance of cultural diversity",
+    "category": "music",
+    "difficulty": "easy"
+  },
+  {
+    "id": 202,
+    "prompt": "importance of sleep for health",
+    "category": "education",
+    "difficulty": "easy"
+  },
+  {
+    "id": 203,
+    "prompt": "history of ancient egypt",
+    "category": "music",
+    "difficulty": "hard"
+  },
+  {
+    "id": 204,
+    "prompt": "history of ancient egypt",
+    "category": "philosophy",
+    "difficulty": "easy"
+  },
+  {
+    "id": 205,
+    "prompt": "tips for effective communication",
+    "category": "education",
+    "difficulty": "easy"
+  },
+  {
+    "id": 206,
+    "prompt": "rules of football game",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 207,
+    "prompt": "how electric cars work",
+    "category": "geography",
+    "difficulty": "hard"
+  },
+  {
+    "id": 208,
+    "prompt": "tips for public speaking",
+    "category": "sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 209,
+    "prompt": "history of the olympic games",
+    "category": "sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 210,
+    "prompt": "describe the water cycle",
+    "category": "philosophy",
+    "difficulty": "medium"
+  },
+  {
+    "id": 211,
+    "prompt": "how photography works",
+    "category": "psychology",
+    "difficulty": "easy"
+  },
+  {
+    "id": 212,
+    "prompt": "importance of recycling",
+    "category": "geography",
+    "difficulty": "hard"
+  },
+  {
+    "id": 213,
+    "prompt": "tips for effective communication",
+    "category": "movies",
+    "difficulty": "easy"
+  },
+  {
+    "id": 214,
+    "prompt": "basic meditation techniques",
+    "category": "travel",
+    "difficulty": "easy"
+  },
+  {
+    "id": 215,
+    "prompt": "tips for public speaking",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 216,
+    "prompt": "importance of mental health",
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "id": 217,
+    "prompt": "importance of recycling",
+    "category": "movies",
+    "difficulty": "hard"
+  },
+  {
+    "id": 218,
+    "prompt": "rules of football game",
+    "category": "sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 219,
+    "prompt": "tips for public speaking",
+    "category": "career",
+    "difficulty": "medium"
+  },
+  {
+    "id": 220,
+    "prompt": "importance of cultural diversity",
+    "category": "career",
+    "difficulty": "hard"
+  },
+  {
+    "id": 221,
+    "prompt": "describe the water cycle",
+    "category": "career",
+    "difficulty": "hard"
+  },
+  {
+    "id": 222,
+    "prompt": "how to save money effectively",
+    "category": "psychology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 223,
+    "prompt": "importance of mental health",
+    "category": "environment",
+    "difficulty": "hard"
+  },
+  {
+    "id": 224,
+    "prompt": "importance of clean water",
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "id": 225,
+    "prompt": "tips for time management",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": 226,
+    "prompt": "how solar panels generate electricity",
+    "category": "psychology",
+    "difficulty": "hard"
+  },
+  {
+    "id": 227,
+    "prompt": "how to write a resume",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": 228,
+    "prompt": "how climate change affects environment",
+    "category": "education",
+    "difficulty": "hard"
+  },
+  {
+    "id": 229,
+    "prompt": "how rainbows form",
+    "category": "literature",
+    "difficulty": "easy"
+  },
+  {
+    "id": 230,
+    "prompt": "tips for public speaking",
+    "category": "geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": 231,
+    "prompt": "history of ancient egypt",
+    "category": "environment",
+    "difficulty": "easy"
+  },
+  {
+    "id": 232,
+    "prompt": "how to grow plants at home",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 233,
+    "prompt": "basic first aid techniques",
+    "category": "environment",
+    "difficulty": "hard"
+  },
+  {
+    "id": 234,
+    "prompt": "top tourist places to visit in italy",
+    "category": "movies",
+    "difficulty": "hard"
+  },
+  {
+    "id": 235,
+    "prompt": "importance of recycling",
+    "category": "culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 236,
+    "prompt": "top tourist places to visit in italy",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 237,
+    "prompt": "importance of education",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 238,
+    "prompt": "how to cook pasta at home",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": 239,
+    "prompt": "summary of romeo and juliet",
+    "category": "daily_life",
+    "difficulty": "hard"
+  },
+  {
+    "id": 240,
+    "prompt": "history of space exploration",
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "id": 241,
+    "prompt": "importance of mental health",
+    "category": "sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 242,
+    "prompt": "importance of education",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 243,
+    "prompt": "tips for effective communication",
+    "category": "art",
+    "difficulty": "medium"
+  },
+  {
+    "id": 244,
+    "prompt": "popular classical music composers",
+    "category": "philosophy",
+    "difficulty": "hard"
+  },
+  {
+    "id": 245,
+    "prompt": "tips for learning a new language",
+    "category": "music",
+    "difficulty": "hard"
+  },
+  {
+    "id": 246,
+    "prompt": "basic first aid techniques",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": 247,
+    "prompt": "history of ancient egypt",
+    "category": "career",
+    "difficulty": "medium"
+  },
+  {
+    "id": 248,
+    "prompt": "how to maintain work life balance",
+    "category": "philosophy",
+    "difficulty": "hard"
+  },
+  {
+    "id": 249,
+    "prompt": "how photography works",
+    "category": "health",
+    "difficulty": "medium"
+  },
+  {
+    "id": 250,
+    "prompt": "how photography works",
+    "category": "daily_life",
+    "difficulty": "hard"
+  },
+  {
+    "id": 251,
+    "prompt": "tips for time management",
+    "category": "literature",
+    "difficulty": "medium"
+  },
+  {
+    "id": 252,
+    "prompt": "tips for time management",
+    "category": "movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 253,
+    "prompt": "importance of clean water",
+    "category": "space",
+    "difficulty": "medium"
+  },
+  {
+    "id": 254,
+    "prompt": "best foods for brain health",
+    "category": "travel",
+    "difficulty": "hard"
+  },
+  {
+    "id": 255,
+    "prompt": "how to improve concentration while studying",
+    "category": "geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": 256,
+    "prompt": "importance of sleep for health",
+    "category": "sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 257,
+    "prompt": "history of the olympic games",
+    "category": "philosophy",
+    "difficulty": "hard"
+  },
+  {
+    "id": 258,
+    "prompt": "rules of football game",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": 259,
+    "prompt": "importance of education",
+    "category": "music",
+    "difficulty": "medium"
+  },
+  {
+    "id": 260,
+    "prompt": "tips for learning a new language",
+    "category": "career",
+    "difficulty": "easy"
+  },
+  {
+    "id": 261,
+    "prompt": "how to write a resume",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "id": 262,
+    "prompt": "how GPS works",
+    "category": "geography",
+    "difficulty": "hard"
+  },
+  {
+    "id": 263,
+    "prompt": "how inflation affects economy",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 264,
+    "prompt": "how climate change affects environment",
+    "category": "philosophy",
+    "difficulty": "easy"
+  },
+  {
+    "id": 265,
+    "prompt": "history of the olympic games",
+    "category": "art",
+    "difficulty": "easy"
+  },
+  {
+    "id": 266,
+    "prompt": "how solar panels generate electricity",
+    "category": "daily_life",
+    "difficulty": "hard"
+  },
+  {
+    "id": 267,
+    "prompt": "how to maintain work life balance",
+    "category": "psychology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 268,
+    "prompt": "popular classical music composers",
+    "category": "movies",
+    "difficulty": "hard"
+  },
+  {
+    "id": 269,
+    "prompt": "how climate change affects environment",
+    "category": "health",
+    "difficulty": "hard"
+  },
+  {
+    "id": 270,
+    "prompt": "how inflation affects economy",
+    "category": "health",
+    "difficulty": "hard"
+  },
+  {
+    "id": 271,
+    "prompt": "popular classical music composers",
+    "category": "literature",
+    "difficulty": "medium"
+  },
+  {
+    "id": 272,
+    "prompt": "how solar panels generate electricity",
+    "category": "finance",
+    "difficulty": "easy"
+  },
+  {
+    "id": 273,
+    "prompt": "how vaccines work",
+    "category": "psychology",
+    "difficulty": "hard"
+  },
+  {
+    "id": 274,
+    "prompt": "how to save money effectively",
+    "category": "philosophy",
+    "difficulty": "hard"
+  },
+  {
+    "id": 275,
+    "prompt": "how to start a small business",
+    "category": "literature",
+    "difficulty": "easy"
+  },
+  {
+    "id": 276,
+    "prompt": "importance of cultural diversity",
+    "category": "philosophy",
+    "difficulty": "medium"
+  },
+  {
+    "id": 277,
+    "prompt": "how vaccines work",
+    "category": "literature",
+    "difficulty": "easy"
+  },
+  {
+    "id": 278,
+    "prompt": "importance of clean water",
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "id": 279,
+    "prompt": "benefits of reading books",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 280,
+    "prompt": "how electric cars work",
+    "category": "space",
+    "difficulty": "hard"
+  },
+  {
+    "id": 281,
+    "prompt": "how to save money effectively",
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "id": 282,
+    "prompt": "how to save money effectively",
+    "category": "philosophy",
+    "difficulty": "medium"
+  },
+  {
+    "id": 283,
+    "prompt": "tips for time management",
+    "category": "sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 284,
+    "prompt": "history of space exploration",
+    "category": "philosophy",
+    "difficulty": "medium"
+  },
+  {
+    "id": 285,
+    "prompt": "how solar panels generate electricity",
+    "category": "finance",
+    "difficulty": "hard"
+  },
+  {
+    "id": 286,
+    "prompt": "how GPS works",
+    "category": "environment",
+    "difficulty": "hard"
+  },
+  {
+    "id": 287,
+    "prompt": "how airplanes fly",
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "id": 288,
+    "prompt": "tips for public speaking",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 289,
+    "prompt": "how photography works",
+    "category": "education",
+    "difficulty": "easy"
+  },
+  {
+    "id": 290,
+    "prompt": "how volcanoes erupt",
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 291,
+    "prompt": "importance of cultural diversity",
+    "category": "environment",
+    "difficulty": "hard"
+  },
+  {
+    "id": 292,
+    "prompt": "tips for time management",
+    "category": "health",
+    "difficulty": "hard"
+  },
+  {
+    "id": 293,
+    "prompt": "popular classical music composers",
+    "category": "philosophy",
+    "difficulty": "medium"
+  },
+  {
+    "id": 294,
+    "prompt": "how electric cars work",
+    "category": "art",
+    "difficulty": "hard"
+  },
+  {
+    "id": 295,
+    "prompt": "benefits of regular exercise",
+    "category": "psychology",
+    "difficulty": "hard"
+  },
+  {
+    "id": 296,
+    "prompt": "importance of cultural diversity",
+    "category": "music",
+    "difficulty": "hard"
+  },
+  {
+    "id": 297,
+    "prompt": "importance of cultural diversity",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 298,
+    "prompt": "how electric cars work",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": 299,
+    "prompt": "explain theory of relativity in simple terms",
+    "category": "culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 300,
+    "prompt": "basic meditation techniques",
+    "category": "daily_life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 301,
+    "prompt": "how electric cars work",
+    "category": "psychology",
+    "difficulty": "easy"
+  },
+  {
+    "id": 302,
+    "prompt": "how stock market works",
+    "category": "space",
+    "difficulty": "hard"
+  },
+  {
+    "id": 303,
+    "prompt": "how to start a small business",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 304,
+    "prompt": "benefits of regular exercise",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 305,
+    "prompt": "explain theory of relativity in simple terms",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 306,
+    "prompt": "importance of teamwork",
+    "category": "education",
+    "difficulty": "hard"
+  },
+  {
+    "id": 307,
+    "prompt": "how vaccines work",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": 308,
+    "prompt": "how photography works",
+    "category": "psychology",
+    "difficulty": "hard"
+  },
+  {
+    "id": 309,
+    "prompt": "how climate change affects environment",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": 310,
+    "prompt": "rules of football game",
+    "category": "music",
+    "difficulty": "easy"
+  },
+  {
+    "id": 311,
+    "prompt": "importance of teamwork",
+    "category": "career",
+    "difficulty": "medium"
+  },
+  {
+    "id": 312,
+    "prompt": "how GPS works",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": 313,
+    "prompt": "describe the water cycle",
+    "category": "daily_life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 314,
+    "prompt": "how inflation affects economy",
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "id": 315,
+    "prompt": "how to cook pasta at home",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": 316,
+    "prompt": "how airplanes fly",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": 317,
+    "prompt": "explain theory of relativity in simple terms",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": 318,
+    "prompt": "importance of recycling",
+    "category": "culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 319,
+    "prompt": "how to plan a travel itinerary",
+    "category": "music",
+    "difficulty": "hard"
+  },
+  {
+    "id": 320,
+    "prompt": "tips for public speaking",
+    "category": "education",
+    "difficulty": "easy"
+  },
+  {
+    "id": 321,
+    "prompt": "importance of sleep for health",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 322,
+    "prompt": "how to plan a travel itinerary",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 323,
+    "prompt": "how GPS works",
+    "category": "education",
+    "difficulty": "hard"
+  },
+  {
+    "id": 324,
+    "prompt": "how electric cars work",
+    "category": "movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 325,
+    "prompt": "what causes earthquakes",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 326,
+    "prompt": "importance of mental health",
+    "category": "space",
+    "difficulty": "medium"
+  },
+  {
+    "id": 327,
+    "prompt": "benefits of reading books",
+    "category": "art",
+    "difficulty": "hard"
+  },
+  {
+    "id": 328,
+    "prompt": "importance of teamwork",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": 329,
+    "prompt": "importance of education",
+    "category": "movies",
+    "difficulty": "hard"
+  },
+  {
+    "id": 330,
+    "prompt": "how to write a resume",
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 331,
+    "prompt": "how GPS works",
+    "category": "education",
+    "difficulty": "easy"
+  },
+  {
+    "id": 332,
+    "prompt": "how photography works",
+    "category": "environment",
+    "difficulty": "hard"
+  },
+  {
+    "id": 333,
+    "prompt": "benefits of reading books",
+    "category": "daily_life",
+    "difficulty": "hard"
+  },
+  {
+    "id": 334,
+    "prompt": "tips for time management",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 335,
+    "prompt": "rules of football game",
+    "category": "music",
+    "difficulty": "hard"
+  },
+  {
+    "id": 336,
+    "prompt": "tips for healthy diet",
+    "category": "art",
+    "difficulty": "medium"
+  },
+  {
+    "id": 337,
+    "prompt": "top tourist places to visit in italy",
+    "category": "finance",
+    "difficulty": "hard"
+  },
+  {
+    "id": 338,
+    "prompt": "how rainbows form",
+    "category": "art",
+    "difficulty": "easy"
+  },
+  {
+    "id": 339,
+    "prompt": "how airplanes fly",
+    "category": "literature",
+    "difficulty": "hard"
+  },
+  {
+    "id": 340,
+    "prompt": "how volcanoes erupt",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 341,
+    "prompt": "how to reduce stress",
+    "category": "career",
+    "difficulty": "easy"
+  },
+  {
+    "id": 342,
+    "prompt": "basic first aid techniques",
+    "category": "science",
+    "difficulty": "medium"
+  },
+  {
+    "id": 343,
+    "prompt": "importance of biodiversity",
+    "category": "sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 344,
+    "prompt": "history of the olympic games",
+    "category": "movies",
+    "difficulty": "hard"
+  },
+  {
+    "id": 345,
+    "prompt": "importance of education",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": 346,
+    "prompt": "basic meditation techniques",
+    "category": "history",
+    "difficulty": "easy"
+  },
+  {
+    "id": 347,
+    "prompt": "importance of biodiversity",
+    "category": "art",
+    "difficulty": "hard"
+  },
+  {
+    "id": 348,
+    "prompt": "tips for effective communication",
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "id": 349,
+    "prompt": "benefits of reading books",
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "id": 350,
+    "prompt": "popular classical music composers",
+    "category": "music",
+    "difficulty": "easy"
+  },
+  {
+    "id": 351,
+    "prompt": "history of space exploration",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": 352,
+    "prompt": "how photography works",
+    "category": "literature",
+    "difficulty": "hard"
+  },
+  {
+    "id": 353,
+    "prompt": "how to write a resume",
+    "category": "career",
+    "difficulty": "hard"
+  },
+  {
+    "id": 354,
+    "prompt": "how rainbows form",
+    "category": "space",
+    "difficulty": "easy"
+  },
+  {
+    "id": 355,
+    "prompt": "importance of recycling",
+    "category": "environment",
+    "difficulty": "hard"
+  },
+  {
+    "id": 356,
+    "prompt": "tips for effective communication",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": 357,
+    "prompt": "how electric cars work",
+    "category": "history",
+    "difficulty": "easy"
+  },
+  {
+    "id": 358,
+    "prompt": "importance of recycling",
+    "category": "finance",
+    "difficulty": "easy"
+  },
+  {
+    "id": 359,
+    "prompt": "history of the internet",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": 360,
+    "prompt": "importance of mental health",
+    "category": "space",
+    "difficulty": "easy"
+  },
+  {
+    "id": 361,
+    "prompt": "describe the water cycle",
+    "category": "finance",
+    "difficulty": "medium"
+  },
+  {
+    "id": 362,
+    "prompt": "how to improve concentration while studying",
+    "category": "music",
+    "difficulty": "hard"
+  },
+  {
+    "id": 363,
+    "prompt": "importance of education",
+    "category": "philosophy",
+    "difficulty": "hard"
+  },
+  {
+    "id": 364,
+    "prompt": "how climate change affects environment",
+    "category": "movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 365,
+    "prompt": "how solar panels generate electricity",
+    "category": "education",
+    "difficulty": "hard"
+  },
+  {
+    "id": 366,
+    "prompt": "how airplanes fly",
+    "category": "history",
+    "difficulty": "easy"
+  },
+  {
+    "id": 367,
+    "prompt": "how to maintain work life balance",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 368,
+    "prompt": "what causes earthquakes",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": 369,
+    "prompt": "importance of biodiversity",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": 370,
+    "prompt": "history of space exploration",
+    "category": "science",
+    "difficulty": "medium"
+  },
+  {
+    "id": 371,
+    "prompt": "how rainbows form",
+    "category": "science",
+    "difficulty": "medium"
+  },
+  {
+    "id": 372,
+    "prompt": "tips for effective communication",
+    "category": "education",
+    "difficulty": "hard"
+  },
+  {
+    "id": 373,
+    "prompt": "tips for public speaking",
+    "category": "sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 374,
+    "prompt": "tips for time management",
+    "category": "space",
+    "difficulty": "hard"
+  },
+  {
+    "id": 375,
+    "prompt": "importance of teamwork",
+    "category": "finance",
+    "difficulty": "hard"
+  },
+  {
+    "id": 376,
+    "prompt": "tips for time management",
+    "category": "science",
+    "difficulty": "medium"
+  },
+  {
+    "id": 377,
+    "prompt": "how to grow plants at home",
+    "category": "health",
+    "difficulty": "hard"
+  },
+  {
+    "id": 378,
+    "prompt": "how volcanoes erupt",
+    "category": "environment",
+    "difficulty": "medium"
+  },
+  {
+    "id": 379,
+    "prompt": "popular classical music composers",
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 380,
+    "prompt": "importance of teamwork",
+    "category": "psychology",
+    "difficulty": "easy"
+  },
+  {
+    "id": 381,
+    "prompt": "how to cook pasta at home",
+    "category": "culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 382,
+    "prompt": "summary of romeo and juliet",
+    "category": "art",
+    "difficulty": "easy"
+  },
+  {
+    "id": 383,
+    "prompt": "basic meditation techniques",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": 384,
+    "prompt": "how electric cars work",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": 385,
+    "prompt": "how photography works",
+    "category": "geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": 386,
+    "prompt": "importance of education",
+    "category": "geography",
+    "difficulty": "hard"
+  },
+  {
+    "id": 387,
+    "prompt": "best foods for brain health",
+    "category": "environment",
+    "difficulty": "medium"
+  },
+  {
+    "id": 388,
+    "prompt": "how to cook pasta at home",
+    "category": "history",
+    "difficulty": "easy"
+  },
+  {
+    "id": 389,
+    "prompt": "importance of clean water",
+    "category": "health",
+    "difficulty": "medium"
+  },
+  {
+    "id": 390,
+    "prompt": "importance of recycling",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": 391,
+    "prompt": "history of ancient egypt",
+    "category": "movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 392,
+    "prompt": "best foods for brain health",
+    "category": "movies",
+    "difficulty": "hard"
+  },
+  {
+    "id": 393,
+    "prompt": "how volcanoes erupt",
+    "category": "sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 394,
+    "prompt": "how stock market works",
+    "category": "daily_life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 395,
+    "prompt": "explain theory of relativity in simple terms",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 396,
+    "prompt": "how rainbows form",
+    "category": "psychology",
+    "difficulty": "easy"
+  },
+  {
+    "id": 397,
+    "prompt": "how to write a resume",
+    "category": "music",
+    "difficulty": "medium"
+  },
+  {
+    "id": 398,
+    "prompt": "how GPS works",
+    "category": "education",
+    "difficulty": "easy"
+  },
+  {
+    "id": 399,
+    "prompt": "how vaccines work",
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "id": 400,
+    "prompt": "rules of football game",
+    "category": "sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 401,
+    "prompt": "history of the internet",
+    "category": "sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 402,
+    "prompt": "how rainbows form",
+    "category": "psychology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 403,
+    "prompt": "importance of biodiversity",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": 404,
+    "prompt": "importance of clean water",
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 405,
+    "prompt": "how electric cars work",
+    "category": "art",
+    "difficulty": "easy"
+  },
+  {
+    "id": 406,
+    "prompt": "tips for public speaking",
+    "category": "literature",
+    "difficulty": "medium"
+  },
+  {
+    "id": 407,
+    "prompt": "tips for time management",
+    "category": "music",
+    "difficulty": "easy"
+  },
+  {
+    "id": 408,
+    "prompt": "how to start a small business",
+    "category": "career",
+    "difficulty": "hard"
+  },
+  {
+    "id": 409,
+    "prompt": "how photography works",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 410,
+    "prompt": "how to write a resume",
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 411,
+    "prompt": "how inflation affects economy",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": 412,
+    "prompt": "how to maintain work life balance",
+    "category": "finance",
+    "difficulty": "medium"
+  },
+  {
+    "id": 413,
+    "prompt": "how rainbows form",
+    "category": "space",
+    "difficulty": "medium"
+  },
+  {
+    "id": 414,
+    "prompt": "history of ancient egypt",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": 415,
+    "prompt": "how to maintain work life balance",
+    "category": "space",
+    "difficulty": "easy"
+  },
+  {
+    "id": 416,
+    "prompt": "benefits of reading books",
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 417,
+    "prompt": "how solar panels generate electricity",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 418,
+    "prompt": "importance of sleep for health",
+    "category": "geography",
+    "difficulty": "hard"
+  },
+  {
+    "id": 419,
+    "prompt": "how to maintain work life balance",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": 420,
+    "prompt": "how to start a small business",
+    "category": "geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": 421,
+    "prompt": "tips for public speaking",
+    "category": "movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 422,
+    "prompt": "tips for public speaking",
+    "category": "psychology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 423,
+    "prompt": "tips for effective communication",
+    "category": "career",
+    "difficulty": "hard"
+  },
+  {
+    "id": 424,
+    "prompt": "tips for learning a new language",
+    "category": "literature",
+    "difficulty": "easy"
+  },
+  {
+    "id": 425,
+    "prompt": "how climate change affects environment",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 426,
+    "prompt": "benefits of regular exercise",
+    "category": "health",
+    "difficulty": "medium"
+  },
+  {
+    "id": 427,
+    "prompt": "how to cook pasta at home",
+    "category": "philosophy",
+    "difficulty": "hard"
+  },
+  {
+    "id": 428,
+    "prompt": "benefits of reading books",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 429,
+    "prompt": "history of the internet",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": 430,
+    "prompt": "history of ancient egypt",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 431,
+    "prompt": "tips for public speaking",
+    "category": "science",
+    "difficulty": "medium"
+  },
+  {
+    "id": 432,
+    "prompt": "importance of sleep for health",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 433,
+    "prompt": "describe the water cycle",
+    "category": "sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 434,
+    "prompt": "history of space exploration",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": 435,
+    "prompt": "importance of biodiversity",
+    "category": "literature",
+    "difficulty": "hard"
+  },
+  {
+    "id": 436,
+    "prompt": "describe the water cycle",
+    "category": "education",
+    "difficulty": "hard"
+  },
+  {
+    "id": 437,
+    "prompt": "how electric cars work",
+    "category": "sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 438,
+    "prompt": "how to reduce stress",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": 439,
+    "prompt": "history of the internet",
+    "category": "geography",
+    "difficulty": "hard"
+  },
+  {
+    "id": 440,
+    "prompt": "how to grow plants at home",
+    "category": "sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 441,
+    "prompt": "how to grow plants at home",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": 442,
+    "prompt": "how vaccines work",
+    "category": "sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 443,
+    "prompt": "how to write a resume",
+    "category": "art",
+    "difficulty": "hard"
+  },
+  {
+    "id": 444,
+    "prompt": "benefits of reading books",
+    "category": "geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": 445,
+    "prompt": "tips for effective communication",
+    "category": "movies",
+    "difficulty": "hard"
+  },
+  {
+    "id": 446,
+    "prompt": "history of the olympic games",
+    "category": "psychology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 447,
+    "prompt": "how solar panels generate electricity",
+    "category": "education",
+    "difficulty": "hard"
+  },
+  {
+    "id": 448,
+    "prompt": "how to grow plants at home",
+    "category": "art",
+    "difficulty": "medium"
+  },
+  {
+    "id": 449,
+    "prompt": "tips for time management",
+    "category": "literature",
+    "difficulty": "hard"
+  },
+  {
+    "id": 450,
+    "prompt": "how to plan a travel itinerary",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "id": 451,
+    "prompt": "tips for time management",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 452,
+    "prompt": "importance of clean water",
+    "category": "sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 453,
+    "prompt": "how to reduce stress",
+    "category": "art",
+    "difficulty": "hard"
+  },
+  {
+    "id": 454,
+    "prompt": "how airplanes fly",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": 455,
+    "prompt": "rules of football game",
+    "category": "movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 456,
+    "prompt": "tips for public speaking",
+    "category": "history",
+    "difficulty": "easy"
+  },
+  {
+    "id": 457,
+    "prompt": "importance of teamwork",
+    "category": "psychology",
+    "difficulty": "hard"
+  },
+  {
+    "id": 458,
+    "prompt": "importance of clean water",
+    "category": "environment",
+    "difficulty": "hard"
+  },
+  {
+    "id": 459,
+    "prompt": "explain theory of relativity in simple terms",
+    "category": "history",
+    "difficulty": "easy"
+  },
+  {
+    "id": 460,
+    "prompt": "describe the water cycle",
+    "category": "environment",
+    "difficulty": "hard"
+  },
+  {
+    "id": 461,
+    "prompt": "how volcanoes erupt",
+    "category": "environment",
+    "difficulty": "easy"
+  },
+  {
+    "id": 462,
+    "prompt": "how stock market works",
+    "category": "psychology",
+    "difficulty": "easy"
+  },
+  {
+    "id": 463,
+    "prompt": "tips for learning a new language",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": 464,
+    "prompt": "how GPS works",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": 465,
+    "prompt": "importance of clean water",
+    "category": "daily_life",
+    "difficulty": "hard"
+  },
+  {
+    "id": 466,
+    "prompt": "tips for time management",
+    "category": "health",
+    "difficulty": "hard"
+  },
+  {
+    "id": 467,
+    "prompt": "tips for effective communication",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": 468,
+    "prompt": "importance of sleep for health",
+    "category": "finance",
+    "difficulty": "easy"
+  },
+  {
+    "id": 469,
+    "prompt": "top tourist places to visit in italy",
+    "category": "culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 470,
+    "prompt": "importance of biodiversity",
+    "category": "space",
+    "difficulty": "hard"
+  },
+  {
+    "id": 471,
+    "prompt": "importance of cultural diversity",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "id": 472,
+    "prompt": "explain causes of world war 1",
+    "category": "daily_life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 473,
+    "prompt": "tips for public speaking",
+    "category": "philosophy",
+    "difficulty": "hard"
+  },
+  {
+    "id": 474,
+    "prompt": "summary of romeo and juliet",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 475,
+    "prompt": "tips for time management",
+    "category": "art",
+    "difficulty": "medium"
+  },
+  {
+    "id": 476,
+    "prompt": "how GPS works",
+    "category": "literature",
+    "difficulty": "hard"
+  },
+  {
+    "id": 477,
+    "prompt": "how photography works",
+    "category": "geography",
+    "difficulty": "hard"
+  },
+  {
+    "id": 478,
+    "prompt": "basic first aid techniques",
+    "category": "science",
+    "difficulty": "medium"
+  },
+  {
+    "id": 479,
+    "prompt": "benefits of reading books",
+    "category": "sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 480,
+    "prompt": "tips for healthy diet",
+    "category": "space",
+    "difficulty": "easy"
+  },
+  {
+    "id": 481,
+    "prompt": "how airplanes fly",
+    "category": "sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 482,
+    "prompt": "tips for effective communication",
+    "category": "space",
+    "difficulty": "easy"
+  },
+  {
+    "id": 483,
+    "prompt": "how photography works",
+    "category": "travel",
+    "difficulty": "easy"
+  },
+  {
+    "id": 484,
+    "prompt": "describe the water cycle",
+    "category": "history",
+    "difficulty": "easy"
+  },
+  {
+    "id": 485,
+    "prompt": "how photography works",
+    "category": "art",
+    "difficulty": "medium"
+  },
+  {
+    "id": 486,
+    "prompt": "importance of education",
+    "category": "psychology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 487,
+    "prompt": "importance of education",
+    "category": "psychology",
+    "difficulty": "hard"
+  },
+  {
+    "id": 488,
+    "prompt": "how airplanes fly",
+    "category": "psychology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 489,
+    "prompt": "how to reduce stress",
+    "category": "music",
+    "difficulty": "medium"
+  },
+  {
+    "id": 490,
+    "prompt": "basic meditation techniques",
+    "category": "health",
+    "difficulty": "easy"
+  },
+  {
+    "id": 491,
+    "prompt": "how photography works",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": 492,
+    "prompt": "how GPS works",
+    "category": "movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 493,
+    "prompt": "how climate change affects environment",
+    "category": "finance",
+    "difficulty": "medium"
+  },
+  {
+    "id": 494,
+    "prompt": "best foods for brain health",
+    "category": "education",
+    "difficulty": "easy"
+  },
+  {
+    "id": 495,
+    "prompt": "how to cook pasta at home",
+    "category": "geography",
+    "difficulty": "hard"
+  },
+  {
+    "id": 496,
+    "prompt": "how to save money effectively",
+    "category": "education",
+    "difficulty": "easy"
+  },
+  {
+    "id": 497,
+    "prompt": "history of space exploration",
+    "category": "art",
+    "difficulty": "hard"
+  },
+  {
+    "id": 498,
+    "prompt": "how inflation affects economy",
+    "category": "career",
+    "difficulty": "easy"
+  },
+  {
+    "id": 499,
+    "prompt": "how GPS works",
+    "category": "finance",
+    "difficulty": "hard"
+  },
+  {
+    "id": 500,
+    "prompt": "importance of clean water",
+    "category": "history",
+    "difficulty": "hard"
+  }
+]
