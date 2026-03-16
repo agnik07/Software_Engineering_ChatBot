@@ -1,5 +1,7 @@
 import pickle
 from transformers import pipeline
+import streamlit as st
+from transformers import pipeline
 
 # load classifier
 model = pickle.load(open("scope_model.pkl","rb"))
@@ -54,12 +56,14 @@ User Question:
 Answer:
 """
 
-    result = llm(
-    prompt,
-    max_new_tokens=400,
-    do_sample=True,
-    temperature=0.3
-)
+@st.cache_resource
+def load_llm():
+    return pipeline(
+        "text-generation",
+        model="Salesforce/codegen-350M-mono"
+    )
+
+llm = load_llm()
 
     output = result[0]["generated_text"]
 
