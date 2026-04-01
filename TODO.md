@@ -1,11 +1,9 @@
-# Push Project to GitHub TODO
+# README.md Creation and GitHub Push TODO
 
 ## Steps:
-- [ ] 1. Authenticate GitHub CLI (gh auth login) *pending/alternative*
-- [ ] 2. Create .gitignore
-- [x] 3. Init Git repo (git init)
-- [x] 4. Create GitHub repo, add remote, push (git remote add + push)
-- [ ] 5. Add/commit/push changes (git add/commit/push)
-- [ ] 6. Verify and complete
+- [x] 1. Create comprehensive README.md
+- [ ] 2. git add README.md
+- [ ] 3. git commit -m \"Add comprehensive README.md\"
+- [ ] 4. git push origin main
+- [ ] 5. Verify on GitHub (optional: check gh CLI and create PR if on branch)
 
-Updated: Step 1 pending user action.
